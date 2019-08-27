@@ -1,0 +1,33 @@
+.cast {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  background-color: white;
+  padding: 10px;
+}
+img{
+	border-radius: 50%;
+}
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 5px;
+  font-size: 20px;
+  text-align: center;
+}
+header {
+	font-size: 30px;
+	text-align: center;
+	font-family: 'Game of Thrones';
+    font-weight: normal;
+    font-style: normal;
+}
+div.grid-item {
+  width: 40%;
+  background-color: white;
+  margin-bottom: 25px;
+}
+
+div.subtitle {
+  text-align: center;
+  padding: 5px 5px;
+  color: #333333;	
+}
